@@ -5,13 +5,10 @@ automake
 bison
 cmake
 cmatrix
-code
 compton
 conky-manager
 dolphin
-dropbox
 dunst
-eclipse-java
 feh
 filelight
 firefox
